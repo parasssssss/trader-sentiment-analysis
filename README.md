@@ -49,7 +49,7 @@ Created key metrics:
     *   **Bias:** Long-Biased vs. Balanced traders
     *   **Consistency:** Consistent vs. Inconsistent traders (based on win rate)
 *   **Bonus: Trader Clustering**
-    *   Used K-Means clustering to identify distinct trader archetypes based on key performance metrics (PnL, trades, avg_size, win_rate).
+    *   Used K-Means clustering to identify distinct trader archetypes based on key performance metrics (PnL, trades, avg_size, win_rate)
 
 ---
 
